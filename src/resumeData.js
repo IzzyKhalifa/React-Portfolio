@@ -10,13 +10,9 @@ let resumeData = {
           "url":"https://www.linkedin.com/in/izzy-khalifa/",
           "className":"fa fa-linkedin"
         },
-        {
-          "name":"github",
-          "url":"https://github.com/IzzyKhalifa",
-          "className":"fa fa-github"
-        },
+     
       ],
-    "aboutme":"I studied CS for 2 years in collage then dropped out and enrolled in Fullstack development at Monash University As a junior full stack developer, I possess a unique set of skills that allow me to work on both the front-end and back-end of web development projects. I have a strong understanding of programming languages such as HTML, CSS, JavaScript and frameworks such as React, as well as experience with back-end languages like Java, and Node.js. I'm able to design and develop responsive and dynamic web applications that meet the needs of my clients and users. My attention to detail and problem-solving abilities make you a valuable asset toany development team. ",
+    "aboutme":"I studied CS for 2 years in collage then dropped out and enrolled in Fullstack development at Monash University As a junior full stack developer, I possess a unique set of skills that allow me to work on both the front-end and back-end of web development projects. I have a strong understanding of programming languages such as HTML, CSS, JavaScript and frameworks such as React, as well as experience with back-end languages like Java, and Node.js. I'm able to design and develop responsive and dynamic web applications that meet the needs of my clients and users. My attention to detail and problem-solving abilities make you a valuable asset to any development team. ",
     "address":"Melbourne",
     "website":"https://github.com/IzzyKhalifa",
     "education":[
@@ -52,13 +48,13 @@ let resumeData = {
     "portfolio":[
       {
         "name":"project1",
-        "description":"Junior Jobs",
-        "imgurl":""
+        "description":"Stocks Price Checker",
+        "imgurl":"Snippet of the webpage.PNG"
       },
       {
         "name":"project2",
-        "description":"Tech Blog",
-        "imgurl":""
+        "description":"Note taker",
+        "imgurl":"11-express-homework-demo-02.PNG"
       },
     ],
   }
